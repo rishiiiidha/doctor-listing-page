@@ -20,20 +20,20 @@ https://doctor-listing-page-one.vercel.app/
 
 
 
-## 🔗 API Used
+## API Used
 
 - **URL**: [https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json](https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json)
 - Data includes doctor names, specialties, consultation types, fees, and experience.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js 
 - **Styling**: Tailwind CSS 
 ---
 
-## 🧪 Running the Project Locally
+## Running the Project Locally
 
 1. Clone the repo:
    ```bash
